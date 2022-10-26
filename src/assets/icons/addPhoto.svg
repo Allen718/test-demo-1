@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>34. Icons/filled/image/add_photo_alternate_24px</title>
+    <defs>
+        <path d="M38,14 L38,19.98 C38,19.98 34.02,20 34,19.98 L34,14 L28,14 C28,14 28.02,10.02 28,10 L34,10 L34,4 L38,4 L38,10 L44,10 L44,14 L38,14 Z M32,22 L32,16 L26,16 L26,10 L10,10 C7.8,10 6,11.8 6,14 L6,38 C6,40.2 7.8,42 10,42 L34,42 C36.2,42 38,40.2 38,38 L38,22 L32,22 Z M10,38 L16,30 L20,36 L26,28 L34,38 L10,38 Z" id="path-1"></path>
+    </defs>
+    <g id="商品管理V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编辑-未填写" transform="translate(-369.000000, -747.000000)">
+            <g id="编组-5" transform="translate(312.000000, 692.000000)">
+                <g id="34.-Icons/filled/image/add_photo_alternate_24px" transform="translate(51.000000, 51.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="icon/image/add_photo_alternate_24px" fill-opacity="0.87" fill="#000000" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
